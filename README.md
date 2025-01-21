@@ -2,6 +2,8 @@
 
 A fun Mac app that simulates a TikTok-ban-style alert on your Mac.
 
+![Screenshot](Images/Screenshot.png)
+
 ## Overview
 
 This small Swift script creates a system alert that mimics the style of app ban notifications, specifically parodying the TikTok ban discussions.
